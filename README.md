@@ -29,7 +29,7 @@ I'm currently learning C++ & Java, Web Exploitation and Reverse engineering .
 </dl>
 
 <br>
-My Discord: `1xR1FAT#5759` 
+My Discord: 1xR1FAT#5759
 <br>
 
 ## Tools 
