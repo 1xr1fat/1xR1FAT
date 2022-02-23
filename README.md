@@ -15,4 +15,4 @@ Mainly focus on:
 
 My Discord: `1xR1FAT#5759`
 
-[Twitter](https://twitter.com/1xR1Fat) [Hackerone](https://hackerone.com/1xr1fat?type=user)
+[Twitter](https://twitter.com/1xR1Fat)               [Hackerone](https://hackerone.com/1xr1fat?type=user)
