@@ -23,7 +23,7 @@ I'm currently learning C++ & Java, Web Exploitation and Reverse engineering .
   <dd>              - Programming</dd>
 </dl>
 
-
+- Eat <i class="fas fa-utensils"></i> Sleep 😴 code 💻 Hack 💻 Repeat
 <dl> 
 </dl>
 
