@@ -18,7 +18,7 @@ Just a normal person , passionate about coding and hacking.
 I'm currently learning C++ & Java, Web Exploitation and Reverse engineering .
 
  <dt>Mainly focus on:</dt>
-  <dd>              - Web Hacking</dd>
+  <dd>              - Application security</dd>
   <dd>              - CTF</dd>
   <dd>              - Reverse engineering</dd>
   <dd>              - Programming</dd>
