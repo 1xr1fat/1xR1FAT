@@ -50,7 +50,7 @@ My Discord: 1xR1FAT#5759
 <h2>⭐ Badges</h2>
 
  <div align="center">
-   <img src="<script src="<img src="https://tryhackme-badges.s3.amazonaws.com/hackjunior90.png" alt="TryHackMe"><br>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/hackjunior90.png" alt="TryHackMe">
    <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
 </div>
   
