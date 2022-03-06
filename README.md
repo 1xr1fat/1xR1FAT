@@ -47,9 +47,16 @@ My Discord: 1xR1FAT#5759
   <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/><a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/><a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
 <br>
 
+<h2>⭐ Badges</h2>
+
+ <div align="center">
+   <img src="<script src="https://tryhackme.com/badge/524133"></script>" alt="TryHackMe"><br>
+   <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
+</div>
+  
+   
+   
 ## Social Links
 
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/1xR1Fat)
-[![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00)](https://app.hackthebox.com/users/622396)
-[![THM](https://img.shields.io/badge/-TryHackMe-000000?style=flat&logo=icloud&logoColor=gray)](https://tryhackme.com/p/hackjunior90)
-[![Hackerone](https://img.shields.io/badge/-hackerone-black?logo=hackerone&color=gray&style=flat)](https://hackerone.com/1xr1fat?type=user)
+
