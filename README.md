@@ -17,6 +17,9 @@ Just a normal person , passionate about coding and hacking.
 
 I'm currently learning C++ & Java, Web Exploitation and Reverse engineering .
 
+<br>
+<p align="center">Member at <a href="https://github.com/KnightSquad">Knight Squad</a> </p> 
+
  <dt>Mainly focus on:</dt>
   <dd>              - Application security</dd>
   <dd>              - CTF</dd>
