@@ -51,6 +51,7 @@ My Discord: 1xR1FAT#5759
 
  <div align="center">
    <img src="https://tryhackme-badges.s3.amazonaws.com/hackjunior90.png" alt="TryHackMe">
+  <br>
    <img src="https://www.hackthebox.com/badge/image/622396" alt="Hack The Box"> 
 </div>
   
