@@ -1,5 +1,5 @@
 
-### I'm Shahabor Hossain Rifat AKA 1xR1FAT
+## I'm Shahabor Hossain Rifat AKA 1xR1FAT
 
 
 ```ascii
@@ -13,12 +13,11 @@
 ╚══════╝╚═╝░░╚═╝  ╚═╝░░╚═╝╚══════╝╚═╝░░░░░╚═╝░░╚═╝░░░╚═╝░░░
 
 ```
-Just a normal person , passionate about coding and hacking.
+### Just a normal person , passionate about coding and hacking.
 
-I'm currently learning C++ & Java, Web Exploitation and Reverse engineering .
 
 <br>
-<p align="center">Member at <a href="https://github.com/KnightSquad">Knight Squad</a> </p> 
+### <p align="center">Member at <a href="https://github.com/KnightSquad">Knight Squad</a> </p> 
 
  <dt>Mainly focus on:</dt>
   <dd>              - Application security</dd>
