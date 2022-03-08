@@ -17,7 +17,7 @@
 
 
 <br>
-### <p align="center">Member at <a href="https://github.com/KnightSquad">Knight Squad</a> </p> 
+ <p align="center">Member at <a href="https://github.com/KnightSquad">Knight Squad</a> </p> 
 
  <dt>Mainly focus on:</dt>
   <dd>              - Application security</dd>
