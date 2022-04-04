@@ -21,7 +21,6 @@
 
  <dt>Mainly focus on:</dt>
   <dd>              - Application security</dd>
-  <dd>              - CTF</dd>
   <dd>              - Reverse engineering</dd>
   <dd>              - Programming</dd>
 </dl>
