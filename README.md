@@ -13,17 +13,13 @@
 ╚══════╝╚═╝░░╚═╝  ╚═╝░░╚═╝╚══════╝╚═╝░░░░░╚═╝░░╚═╝░░░╚═╝░░░
 
 ```
-### Just a normal person , passionate about coding and hacking.
+### Coding and Hacking Enthusiast.
 
 
 <br>
  <p align="center">Member at <a href="https://github.com/KnightSquad">Knight Squad</a> </p> 
 
- <dt>Mainly focus on:</dt>
-  <dd>              - Application security</dd>
-  <dd>              - Reverse engineering</dd>
-  <dd>              - Programming</dd>
-</dl>
+
 <br>
 - Eat <i class="fas fa-utensils"></i> Sleep 😴 code 💻 Hack 💻 Repeat
 <dl> 
