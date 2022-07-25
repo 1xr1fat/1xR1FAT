@@ -34,7 +34,8 @@
 <br>
 My Discord: 1xR1FAT#5759
 <br> 
-## Social Links
+<h2>⭐ Social Links</h2>
+
 
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/1xR1Fat)
 
