@@ -19,9 +19,7 @@
 <br>
  <p align="center">Member at <a href="https://github.com/KnightSquad">Knight Squad</a> </p> 
 
-<br>
-My Discord: `1xR1FAT#5759
-<br>
+
 
 
 <h2>⭐ Badges</h2>
@@ -33,7 +31,9 @@ My Discord: `1xR1FAT#5759
 </div>
  <br>
  
-   
+<br>
+My Discord: 1xR1FAT#5759
+<br> 
 ## Social Links
 
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/1xR1Fat)
