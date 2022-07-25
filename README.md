@@ -20,7 +20,7 @@
  <p align="center">Member at <a href="https://github.com/KnightSquad">Knight Squad</a> </p> 
 
 <br>
-My Discord: `1xR1FAT#5759`
+My Discord: `1xR1FAT#5759
 <br>
 
 
