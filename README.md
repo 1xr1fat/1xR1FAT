@@ -22,7 +22,7 @@ I am Coding and Hacking Enthusiast.
 ![Bash](https://raw.githubusercontent.com/NomanProdhan/nomanprodhan/main/bash.png)
 
 
-### Linux Distributions I Use
+### Operating System I Use
 ![Arch Linux](https://raw.githubusercontent.com/NomanProdhan/nomanprodhan/main/arch.png)
 ![Manjaro Linux](https://raw.githubusercontent.com/NomanProdhan/nomanprodhan/main/manjaro.png)
 ![Kali Linux](https://raw.githubusercontent.com/NomanProdhan/nomanprodhan/main/kali.png)
