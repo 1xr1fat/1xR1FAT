@@ -33,7 +33,7 @@ I am Coding and Hacking Enthusiast.
 
 
 ### Social Media
-[![Twitter](https://raw.githubusercontent.com/NomanProdhan/nomanprodhan/main/twitter.png)](https://twitter.com/1xR1Fat)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)(https://twitter.com/1xR1Fat)
 [![LinkedIn](https://raw.githubusercontent.com/NomanProdhan/nomanprodhan/main/linkedin.png)](https://www.linkedin.com/in/shahbor-hossain-rifat-ab7b1b217)
 [![Facebook](https://raw.githubusercontent.com/NomanProdhan/nomanprodhan/main/facebook.png)](https://www.facebook.com/1xR1FAT)
 
