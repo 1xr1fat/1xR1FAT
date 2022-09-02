@@ -17,6 +17,11 @@ I am Coding and Hacking Enthusiast.
 
 
 ### Programming Languages I Know
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+
+
 ![Java](https://raw.githubusercontent.com/NomanProdhan/nomanprodhan/main/java.png)
 ![Python](https://raw.githubusercontent.com/NomanProdhan/nomanprodhan/main/python.png)
 ![Bash](https://raw.githubusercontent.com/NomanProdhan/nomanprodhan/main/bash.png)
