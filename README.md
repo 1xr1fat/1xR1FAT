@@ -19,7 +19,7 @@ I am Coding and Hacking Enthusiast.
 ### Programming Languages I Know
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bash,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,java,py)](https://skillicons.dev)
 
 
 
