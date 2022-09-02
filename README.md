@@ -27,6 +27,7 @@ I am Coding and Hacking Enthusiast.
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahbor-hossain-rifat-ab7b1b217/)
 
 [![discord](https://skillicons.dev/icons?i=discord)]()
+<br/>
 ```1xR1FAT#5759```
 ---
 
