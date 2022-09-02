@@ -16,10 +16,10 @@ I am Coding and Hacking Enthusiast.
 
 
 
-### Programming Languages I Know
+### Technology and Tools I use
 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bash,java,py,androidstudio,discord,docker,git,github,md,idea,vscode,wordpress,linux)](https://skillicons.dev)
 
 
 
