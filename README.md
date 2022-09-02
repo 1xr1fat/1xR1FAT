@@ -26,7 +26,7 @@ I am Coding and Hacking Enthusiast.
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/1xR1Fat)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahbor-hossain-rifat-ab7b1b217/)
 
-[![discord](https://skillicons.dev/icons?i=discord)]()   => 1xR1FAT#5759
+[![discord](https://skillicons.dev/icons?i=discord)]()```1xR1FAT#5759```
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1xR1FAT&theme=merko)]([https://git.io/streak-stats](https://twitter.com/1xR1Fat))
