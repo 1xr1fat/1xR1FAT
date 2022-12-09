@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 1xR1FAT!</h1>
 
-<code><img src="https://user-images.githubusercontent.com/65107679/158521636-0d8a5954-65f3-4c79-9a02-24d6d3c1f2fc.png"></code>
+<code><img src="https://raw.githubusercontent.com/1xr1fat/1xR1FAT/main/IMG_20221130_220731.jpg"></code>
 I am Shahabor Hossain Rifat from Bangladesh :bangladesh: . My nickname is 1xR1FAT .
 
 I am Coding and InfoSec Enthusiast.
