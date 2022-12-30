@@ -19,7 +19,7 @@ I am Coding and InfoSec Enthusiast.
 ### Technology and Tools I use
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bash,java,py,androidstudio,docker,git,github,md,idea,vscode,wordpress,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bash,java,py,androidstudio,docker,git,github,md,idea,vscode,visualstudio,wordpress,linux)](https://skillicons.dev)
 
 
 ### Social Media
