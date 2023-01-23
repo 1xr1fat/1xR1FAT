@@ -9,10 +9,8 @@ I am Coding and InfoSec Enthusiast.
 
 :closed_lock_with_key:  Penetration Tester
 
-:shield: Junior knight of [Knight Squad](https://knightsquad.org)
- community
 
-:lady_beetle: CTF Player and Organizer 
+:lady_beetle: CTF Player
 
 
 
