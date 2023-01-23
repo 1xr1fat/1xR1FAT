@@ -31,5 +31,5 @@ I am Coding and InfoSec Enthusiast.
 ```1xR1FAT#5759```
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1xR1FAT&theme=merko)]([https://git.io/streak-stats](https://twitter.com/1xR1Fat))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WeirdR1fat&theme=merko)]([https://git.io/streak-stats](https://twitter.com/1xR1Fat))
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1xr1fat&show_icons=true&theme=dracula)
