@@ -22,7 +22,7 @@ I am Coding and InfoSec Enthusiast.
 
 ### Social Media
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/badWeird0x0)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahbor-hossain-rifat-ab7b1b217/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/badweird0x0)
 
 [![discord](https://skillicons.dev/icons?i=discord)]()
 <br/>
