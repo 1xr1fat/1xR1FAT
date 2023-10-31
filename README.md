@@ -3,17 +3,17 @@
 I'm a self-taught computer science enthusiast based in Dhaka, Bangladesh. I'm a  researcher and  member of the RevoltZero .
 
 
-## 🌟 My interests span a wide range of areas, including:
-- 💻 Computer Security: I'm fascinated by the ever-evolving world of cybersecurity.
-- 📚 Natural Language Processing (NLP): Exploring the frontiers of human-computer language interaction.
-- 🕹️ Game Development: Building immersive digital experiences for fun and learning.
-- 🤖 Robotics: Delving into the world of intelligent machines and automation.
+##  My interests span a wide range of areas, including:
+-  Computer Security: I'm fascinated by the ever-evolving world of cybersecurity.
+-  Natural Language Processing (NLP): Exploring the frontiers of human-computer language interaction.
+-  Game Development: Building immersive digital experiences for fun and learning.
+-  Robotics: Delving into the world of intelligent machines and automation.
 
 
-🔐 I'm an active participant in Capture The Flag (CTF) competitions. As a member of 'TheResurrectedOdyssey,' we achieved 4th place in MIST LEETCON: HackMeIfYouCan, ranked 6th in the National Cyber Drill 2021, and secured 4th place in RIoT Center Flag Hunt 2022.
+ I'm an active participant in Capture The Flag (CTF) competitions. As a member of 'TheResurrectedOdyssey,' we achieved 4th place in MIST LEETCON: HackMeIfYouCan, ranked 6th in the National Cyber Drill 2021, and secured 4th place in RIoT Center Flag Hunt 2022.
 
 
-🔍 I've also had the privilege to contribute as a problem setter for various local and international CTF competitions, including 
+ I've also had the privilege to contribute as a problem setter for various local and international CTF competitions, including 
  - KnightCTF 2022 (Intl) 
  - BDSec CTF 2022
  - KnightCTF 2021 (Intl).
