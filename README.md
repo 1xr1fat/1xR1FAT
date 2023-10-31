@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm badWeird0x0!</h1>
+<h1 align="center">Hi 👋, I'm ShahRiffy!</h1>
 
-<code><img src="https://raw.githubusercontent.com/badWeird0x0/badWeird0x0/main/moodboard.png"></code>
-I am Shahabor Hossain Rifat aka badWeird0x0 from Bangladesh :bangladesh: .
+<code><img src="https://raw.githubusercontent.com/ShahRiffy/ShahRiffy/main/moodboard.png"></code>
+I am Shahabor Hossain Rifat aka ShahRiffy from Bangladesh :bangladesh: .
 
 I am Coding and InfoSec Enthusiast.
 
@@ -21,13 +21,14 @@ I am Coding and InfoSec Enthusiast.
 
 
 ### Social Media
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/badWeird0x0)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/badweird0x0)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ShahRiffy)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/ShahRiffy)
 
 [![discord](https://skillicons.dev/icons?i=discord)]()
 <br/>
-```badWeird0x0#5759```
+```ShahRiffy#5759```
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badWeird0x0&theme=merko)]([https://git.io/streak-stats](https://twitter.com/badWeird0x0))
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badWeird0x0&show_icons=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahRiffy&theme=merko)]([https://git.io/streak-stats](https://twitter.com/ShahRiffy))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahRiffy&show_icons=true&theme=dracula)
+
