@@ -28,25 +28,6 @@ I'm a self-taught computer science enthusiast based in Dhaka, Bangladesh. I'm a 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,bash,java,py,androidstudio,docker,git,github,md,idea,vscode,visualstudio,atom,arduino,wordpress,linux)](https://skillicons.dev)
-
-
-### Social Media
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ShahRiffy)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/ShahRiffy)
-
 [![discord](https://skillicons.dev/icons?i=discord)]()
 <br/>
 ```ShahRiffy#5759```
