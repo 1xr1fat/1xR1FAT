@@ -30,7 +30,7 @@ I'm a self-taught computer science enthusiast based in Dhaka, Bangladesh. I'm a 
 
 [![discord](https://skillicons.dev/icons?i=discord)]()
 <br/>
-```ShahRiffy#5759```
+```shahriffy```
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahRiffy&theme=merko)]([https://git.io/streak-stats](https://twitter.com/ShahRiffy))
