@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ShahRiffy!</h1>
 
-<code><img src="https://raw.githubusercontent.com/ShahRiffy/ShahRiffy/main/moodboard.png"></code>
 I am Shahabor Hossain Rifat aka ShahRiffy from Bangladesh :bangladesh: .
 
 I am Coding and InfoSec Enthusiast.
