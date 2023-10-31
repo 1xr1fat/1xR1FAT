@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ShahRiffy!</h1>
 
-I'm a self-taught computer science enthusiast based in Dhaka, Bangladesh. I'm a  researcher and  member of the RevoltZero .
+I'm a computer science enthusiast based in Dhaka, Bangladesh. I'm a  researcher and  member of the RevoltZero .
 
 
 ##  My interests span a wide range of areas, including:
