@@ -6,7 +6,6 @@ I'm a computer science enthusiast based in Dhaka, Bangladesh. I'm a  researcher 
 ##  My interests span a wide range of areas, including:
 -  Computer Security: I'm fascinated by the ever-evolving world of cybersecurity.
 -  Natural Language Processing (NLP): Exploring the frontiers of human-computer language interaction.
--  Game Development: Building immersive digital experiences for fun and learning.
 -  Robotics: Delving into the world of intelligent machines and automation.
 
 
