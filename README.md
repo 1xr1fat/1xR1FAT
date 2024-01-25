@@ -4,9 +4,9 @@ I'm a computer science enthusiast based in Dhaka, Bangladesh. I'm a  researcher 
 
 
 ##  My interests span a wide range of areas, including:
--  Computer Security: I'm fascinated by the ever-evolving world of cybersecurity.
--  Natural Language Processing (NLP): Exploring the frontiers of human-computer language interaction.
--  Robotics: Delving into the world of intelligent machines and automation.
+-  Computer Security
+-  Natural Language Processing (NLP)
+-  Robotics
 
 
  I'm an active participant in Capture The Flag (CTF) competitions. As a member of 'TheResurrectedOdyssey,' we achieved 4th place in MIST LEETCON: HackMeIfYouCan, ranked 6th in the National Cyber Drill 2021, and secured 4th place in RIoT Center Flag Hunt 2022.
