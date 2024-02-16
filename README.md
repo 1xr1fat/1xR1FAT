@@ -35,9 +35,3 @@
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShahRiffy&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahRiffy&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
-
-## 🎮 When I'm AFK:
-
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
-</div>
