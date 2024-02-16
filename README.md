@@ -27,6 +27,9 @@
 - [Hello World](https://shahriffy.github.io/)
 <!-- BLOG-POST-LIST:END -->
 
+
+<div align="center">
+
 ## 🏆 My Stats:
 
 <p>
@@ -38,4 +41,4 @@
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
-
+</div>
