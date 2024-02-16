@@ -12,7 +12,6 @@
 - 🐛 Working on different aspects of Information Security .
 - 🌱 I’m passionate about Appsec, Iot and [Web3](https://ethereum.org/en/web3/).
 - 📝 I’m aiming to write **one article per week** starting from February 2024.
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I read comics and watch anime!
 
 <div align="center">
