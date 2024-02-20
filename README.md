@@ -23,7 +23,8 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://shahriffy.github.io/)
+- [Cryptography101 : Introduction to Cryptography]((https://shahriffy.medium.com/cryptography101-introduction-to-cryptography-1aefb978b802))
+- [TempImage -Hacker101](https://shahriffy.medium.com/tempimage-hacker101-8f61febb6e0d)
 <!-- BLOG-POST-LIST:END -->
 
 
