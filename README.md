@@ -34,4 +34,10 @@
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShahRiffy&show_icons=true&count_private=true&theme=radical" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahRiffy&layout=compact&theme=radical" />&nbsp;&nbsp;
+
+<div align="center">
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=alamin0x01&show_icons=true&locale=en&theme=tokyonight" alt="alamin0x01" width="50%" /></p> -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahRiffy&&theme=tokyonight" alt="ShahRiffy" width="50%" /></p>
+<div/> 
+   <!-- ! .....      <div align="center">
 </p>
