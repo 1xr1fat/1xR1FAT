@@ -23,8 +23,9 @@
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cryptography101 : Introduction to Cryptography]((https://shahriffy.medium.com/cryptography101-introduction-to-cryptography-1aefb978b802))
+- [Cryptography101 : Introduction to Cryptography](https://shahriffy.medium.com/cryptography101-introduction-to-cryptography-1aefb978b802)
 - [TempImage -Hacker101](https://shahriffy.medium.com/tempimage-hacker101-8f61febb6e0d)
+- [HackTheBox: Cryptohorrific Challenge](https://shahriffy.medium.com/hackthebox-cryptohorrific-challenge-4f4cb5263565)
 <!-- BLOG-POST-LIST:END -->
 
 
