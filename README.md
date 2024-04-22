@@ -11,23 +11,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
-
-
-
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ShahRiffy) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ShahRiffy/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:shrifat.working@gmail.com?subject=Hello%20ShahRiffy,%20From%20Github)
-
 </div>
-
-<div align="center">
-
-## 🏆 My Stats:
-
-<p>
-<div align="center">
-<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=alamin0x01&show_icons=true&locale=en&theme=tokyonight" alt="alamin0x01" width="50%" /></p> -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahRiffy&&theme=tokyonight" alt="ShahRiffy" width="50%" /></p>
-<div/> 
-   <!-- ! .....      <div align="center">
-</p>
