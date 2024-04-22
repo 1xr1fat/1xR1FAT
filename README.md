@@ -9,8 +9,8 @@
 
 </div>
 
-- 🐛 Working on different aspects of Information Security .
-- 🌱 I’m passionate about Appsec, Iot and [Web3](https://ethereum.org/en/web3/).
+- 🐛 Working on different aspects of Information Security and Data Science .
+- 🌱 I’m passionate about Security Research, Data Science, Iot, and [Web3](https://ethereum.org/en/web3/).
 - 📝 I’m aiming to write **one article per week** starting from February 2024.
 - ⚡ Fun fact: I read comics and watch anime!
 
