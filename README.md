@@ -16,11 +16,6 @@
 
 <div align="center">
 
-## 💡 A Quote:
-
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
-
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Cryptography101 : Introduction to Cryptography](https://shahriffy.medium.com/cryptography101-introduction-to-cryptography-1aefb978b802)
