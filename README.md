@@ -14,7 +14,7 @@
 - 📝 I’m aiming to write **one article per week** starting from February 2024.
 - ⚡ Fun fact: I read comics and watch anime!
 
-<div align="center">
+
 
 ## 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
